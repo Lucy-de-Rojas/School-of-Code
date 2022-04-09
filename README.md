@@ -15,10 +15,6 @@
 
 
 
-<iframe src="https://lucy-de-rojas.github.io/tribute-page/" title="Tribute page"></iframe>
-
-
-
 <img src="https://github.com/Lucy-de-Rojas/School-of-Code/blob/main/Projects/Tribute-page.jpg" width=600>
 
 
