@@ -4,7 +4,7 @@
 
 <a href="https://scratch.mit.edu/projects/638326038/">Scratch Game
 
-<img src="https://github.com/Lucy-de-Rojas/School-of-Code/blob/main/Projects/ScratchGame.jpg">
+<img src="https://github.com/Lucy-de-Rojas/School-of-Code/blob/main/Projects/ScratchGame.jpg" width=300>
 </a>
 
 
