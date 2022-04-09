@@ -12,7 +12,7 @@
 
 <a href="https://lucy-de-rojas.github.io/tribute-page/"> Tribute Page:
 
-<img src="https://github.com/Lucy-de-Rojas/School-of-Code/blob/main/Projects/Tribute-page.jpg" width=300>
+<img src="https://github.com/Lucy-de-Rojas/School-of-Code/blob/main/Projects/Tribute-page.jpg" width=600>
 
 
 
