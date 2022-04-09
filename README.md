@@ -8,8 +8,7 @@
 </a>
 
 
-<br>
-<br>
+
 <a href="https://lucy-de-rojas.github.io/tribute-page/"> Tribute Page:
 
 
@@ -20,5 +19,12 @@
 
 
 </a>
+
+
+
+
+
+
+
 
 </div>
