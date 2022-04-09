@@ -7,7 +7,8 @@
 <img src="https://github.com/Lucy-de-Rojas/School-of-Code/blob/main/Projects/ScratchGame.jpg" width=300>
 </a>
 
-
+<br />
+<br /><br />
 
 <a href="https://lucy-de-rojas.github.io/tribute-page/"> Tribute Page:
 
